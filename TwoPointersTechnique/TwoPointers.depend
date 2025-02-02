@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1738526526 source:c:\users\bulut\onedrive\masaüstü\dsa\ds\stack\generalc++projects\twopointerstechnique\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+
