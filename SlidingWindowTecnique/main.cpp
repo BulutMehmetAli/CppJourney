@@ -30,7 +30,7 @@ int maxSubarrSum(vector<int> &arr, int sizeOfWindow) {
 }
 
 int main() {
-    vector<int> arr = {2, 1, 5, 11, 3, 2}; // Input array
+    vector<int> arr = {2, 1, 5, 1, 3, 2}; // Input array
     int windowSize = 3; // Window size
 
     int result = maxSubarrSum(arr, windowSize); // Call function
