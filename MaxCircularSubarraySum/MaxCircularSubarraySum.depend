@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740759611 source:c:\users\bulut\onedrive\masaüstü\dsa\ds\generalc++projects\maxcircularsubarraysum\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
