@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1742475298 source:c:\users\bulut\onedrive\masaüstü\dsa\forexecises\main.cpp
+	<iostream>
+	<queue>
+	<fstream>
+
