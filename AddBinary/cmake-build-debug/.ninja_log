@@ -1,0 +1,11 @@
+# ninja log v6
+12	964	7670544026223613	CMakeFiles/AddBinary.dir/main.cpp.obj	f7e726b71810c37a
+967	1208	7670544035776860	AddBinary.exe	d7f6d1ecffcc093a
+20	686	7670544768245447	CMakeFiles/AddBinary.dir/main.cpp.obj	f7e726b71810c37a
+687	836	7670544774917125	AddBinary.exe	d7f6d1ecffcc093a
+23	1193	7670546756247019	CMakeFiles/AddBinary.dir/main.cpp.obj	f7e726b71810c37a
+1194	1387	7670546765528653	AddBinary.exe	d7f6d1ecffcc093a
+16	897	7670564869662152	CMakeFiles/AddBinary.dir/main.cpp.obj	f7e726b71810c37a
+898	1095	7670564878479161	AddBinary.exe	d7f6d1ecffcc093a
+16	871	7670566324445410	CMakeFiles/AddBinary.dir/main.cpp.obj	f7e726b71810c37a
+871	1048	7670566332988660	AddBinary.exe	d7f6d1ecffcc093a
